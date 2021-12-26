@@ -1,0 +1,107 @@
+body {
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    background-color: lightgrey;
+}
+
+h2, p, .readme-wrapper {
+    text-align: center;
+}
+
+a {
+    text-decoration: none;
+    color: whitesmoke;
+}
+
+a:hover {
+    cursor: pointer;
+    font: bold;
+    color: red;
+}
+
+span {
+    color: red;
+    font-weight: bolder;
+}
+
+.boxes {
+    margin: 5rem;
+    padding: 1rem;
+    border: solid 1px black;
+    border-radius: 5rem;
+    width: 30em;
+    display: block;
+}
+
+#box1 {
+    background-color: purple;
+}
+
+#box2 {
+    background-color: yellow;
+}
+
+#box3 {
+    background-color: slategray;
+}
+
+#box4 {
+    background-color: palevioletred;
+}
+
+.circle {
+    height: 50px;
+    width: 50px;
+    border-radius: 50px;
+    background-color: olivedrab;
+    position: relative;
+    left: 4rem;
+    top: 3.5rem;
+}
+
+h1 {
+    color: green;
+}
+
+.original {
+    color: blue;
+}
+
+.additional {
+    color: burlywood;
+}
+
+#show1 {
+    color: cyan;
+}
+
+#show2 {
+    color: brown;
+}
+
+#show3 {
+    color: green;
+}
+
+#show4 {
+    color: yellow;
+}
+
+#show5 {
+    color: blue;
+}
+
+ul {
+    color: darkred;
+}
+
+.star {
+    color: black;
+}
+
+#wars {
+    color: deeppink;
+}
+
+.ul {
+    border: 2px solid black;
+}
